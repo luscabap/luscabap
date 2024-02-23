@@ -9,7 +9,7 @@
   
 </div>
  
-- <a href="https://portfolio-luscabap.vercel.app" target="_blank">Portfolio💻</a>
+- 💻 Portfolio - https://portfolio-luscabap.vercel.app
 - 🔭 Estou à procura de emprego como Desenvolvedor Front-End.
 - 🌌 Amo ver vídeos sobre Astronomia e Sci-Fi.
 
