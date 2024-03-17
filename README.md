@@ -9,9 +9,9 @@
   
 </div>
  
-- 💻 Portfolio - https://portfolio-luscabap.vercel.app
+- 💻 Portfólio - https://portfolio-luscabap.vercel.app
 - 🔭 Estou à procura de emprego como Desenvolvedor Front-End.
-- 🌌 Amo ver vídeos sobre Astronomia e Sci-Fi.
+- 🌌 Amo ver vídeos sobre Cosmologia e Sci-Fi.
 
 
 ##
@@ -43,6 +43,7 @@
   ### Estudando nesse momento:
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" height="60" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+  <img align="center" height="60" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" />
 
   ### Próximos passos:
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
