@@ -11,7 +11,8 @@
 </div>
 
 - </> Projeto voluntário - Atualmente faço parte de 2 projetos voluntários do Pipoca Ágil: Hepatohub - Projeto visa conscientizar as pessoas sobre problemas no fígado e como evitá-los; Sr Dente - Projeto para informar e ajudar famílias a cuidarem da saúde bucal.
-- 🧑‍💻 Projetos pessoas - Como forma de aprimoramente profissional, desenvolvolvo diversos projetos pessoais, o mais atual que trabalho é um E-Commerce de venda de doce para a minha mãe <3.
+- 💼 Projetos Freelances - Faço projetos freelances, como por exemplo a landing page para o renomado escritório VN Advocacia, do Piauí e uma Landing Page para o Dr. Guilherme de Andrade.
+- 🧑‍💻 Projetos pessoais - Como forma de aprimoramento profissional, desenvolvolvo diversos projetos pessoais, o mais atual que trabalho é um E-Commerce de venda de doce para a minha mãe <3, utilizando Next.js, TypeScript, Tailwind, Node, Express e MongooseDB.
 - 💻 Portfólio - https://portfolio-luscabap.vercel.app
 - 🔭 Estou à procura de emprego como Desenvolvedor Front-End.
 - 🌌 Amo ver vídeos sobre Cosmologia e Sci-Fi.
