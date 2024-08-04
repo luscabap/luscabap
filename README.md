@@ -10,8 +10,9 @@
   
 </div>
 
+- 🧑‍💻 Profissional tecnólogo em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor front-end apaixonado por criar interfaces impressionantes e funcionais. Com expertise em, Next.js, React.js, TypeScript, Node.js e Pipeline CI/CD ofereco arquiteturas robustas e escaláveis, com design intuitivo, responsivo e atraente.
+- 💼 Projetos Freelances - Atualmente estou fazendo projeto freelance de portfólio de para um renomado designer 3D. Tenho outros projetos, como a Landing Page para escritório VN Advocacia, situado no Piauí, e o site de apresentação do Dr. Guilherme de Andrade. Ambos os projetos estão no meu portfólio.
 - </> Projeto voluntário - Atualmente faço parte de 2 projetos voluntários do Pipoca Ágil: Hepatohub - Projeto visa conscientizar as pessoas sobre problemas no fígado e como evitá-los; Sr Dente - Projeto para informar e ajudar famílias a cuidarem da saúde bucal.
-- 💼 Projetos Freelances - Faço projetos freelances, como por exemplo a landing page para o renomado escritório VN Advocacia, do Piauí e uma Landing Page para o Dr. Guilherme de Andrade.
 - 🧑‍💻 Projetos pessoais - Como forma de aprimoramento profissional, desenvolvolvo diversos projetos pessoais, o mais atual que trabalho é um E-Commerce de venda de doce para a minha mãe <3, utilizando Next.js, TypeScript, Tailwind, Node, Express e MongooseDB.
 - 💻 Portfólio - https://portfolio-luscabap.vercel.app
 - 🔭 Estou à procura de emprego como Desenvolvedor Front-End.
@@ -25,6 +26,7 @@
   ### Main Skills:
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
   <img align="center" height="60" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
   <img align="center" height="60" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
@@ -54,7 +56,6 @@
           
           
   ### Estudando nesse momento:
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-plain.svg"/>
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -69,7 +70,6 @@
 ##
 
 <div align="center">
-
   <a href="https://www.linkedin.com/in/lucas-baptista-da-silva-133779233/" target="_blank"><img src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasbaptistasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
   <a href="https://instagram.com/lucass_bap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
