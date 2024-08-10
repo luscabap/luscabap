@@ -12,7 +12,9 @@
 
 - 🧑‍💻 Profissional tecnólogo em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor front-end apaixonado por criar interfaces impressionantes e funcionais. Com expertise em, Next.js, React.js, TypeScript, Node.js e Pipeline CI/CD ofereco arquiteturas robustas e escaláveis, com design intuitivo, responsivo e atraente.
 - 💼 Projetos Freelances - Atualmente estou fazendo projeto freelance de portfólio de para um renomado designer 3D. Tenho outros projetos, como a Landing Page para escritório VN Advocacia, situado no Piauí, e o site de apresentação do Dr. Guilherme de Andrade. Ambos os projetos estão no meu portfólio.
-- </> Projeto voluntário - Atualmente faço parte de 2 projetos voluntários do Pipoca Ágil: Hepatohub - Projeto visa conscientizar as pessoas sobre problemas no fígado e como evitá-los; Sr Dente - Projeto para informar e ajudar famílias a cuidarem da saúde bucal.
+- </> Projeto voluntário - Atualmente faço parte de 2 projetos voluntários do Pipoca Ágil:
+    - Hepatohub - Projeto visa conscientizar as pessoas sobre problemas no fígado e como evitá-los;
+    - Sr Dente - Projeto para informar e ajudar famílias a cuidarem da saúde bucal.
 - 🧑‍💻 Projetos pessoais - Como forma de aprimoramento profissional, desenvolvolvo diversos projetos pessoais, o mais atual que trabalho é um E-Commerce de venda de doce para a minha mãe <3, utilizando Next.js, TypeScript, Tailwind, Node, Express e MongooseDB.
 - 💻 Portfólio - https://portfolio-luscabap.vercel.app
 - 🔭 Estou à procura de emprego como Desenvolvedor Front-End.
