@@ -67,7 +67,9 @@
 
   ### Próximos passos:
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  
+
+
+  <h3 align="center">"O sucesso é 1% inspiração e 99% transpiração." – Thomas Edison</h3>
 </div>
 
 ##
