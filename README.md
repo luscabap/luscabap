@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f5fa1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f5fa1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Baptista.;Sou+Desenvolvedor+Front-End;;Pós-graduando+em+Engenharia+de+Software;Sou+formado+no+curso+de+ADS.;Seja+muito+bem-vindo(a)+!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f5fa1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Baptista.;Sou+Desenvolvedor+Front-End;Pós-graduando+em+Engenharia+de+Software;Sou+formado+no+curso+de+ADS.;Seja+muito+bem-vindo(a)+!+:%29)](https://git.io/typing-svg)
 ##
 <div align="center">
 
@@ -11,15 +11,13 @@
 </div>
 
 - 🧑‍💻 Profissional tecnólogo em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor front-end apaixonado por criar interfaces impressionantes e funcionais. Com expertise em, Next.js, React.js, TypeScript, Node.js e Pipeline CI/CD ofereco arquiteturas robustas e escaláveis, com design intuitivo, responsivo e atraente.
-- 💼 Projetos Freelances - Atualmente estou fazendo projeto freelance de portfólio de para um renomado designer 3D. Tenho outros projetos, como a Landing Page para escritório VN Advocacia, situado no Piauí, e o site de apresentação do Dr. Guilherme de Andrade. Ambos os projetos estão no meu portfólio.
-- </> Projeto voluntário - Atualmente faço parte de 2 projetos voluntários do Pipoca Ágil:
-    - Hepatohub - Projeto visa conscientizar as pessoas sobre problemas no fígado e como evitá-los;
-    - Sr Dente - Projeto para informar e ajudar famílias a cuidarem da saúde bucal.
-- 🧑‍🎓 Pós graduando em Engenharia de Software
-- 🧑‍💻 Projetos pessoais - Como forma de aprimoramento profissional, desenvolvolvo diversos projetos pessoais, o mais atual que trabalho é um E-Commerce de venda de doce para a minha mãe <3, utilizando Next.js, TypeScript, Tailwind, Node, Express e MongooseDB.
-- 💻 Portfólio - https://portfolio-luscabap.vercel.app
+- 🧠 Aprimoro minhas habilidades com projetos freelances, projetos pessoais e projetos voluntários no Pipoca Ágil.
+- 🧑‍🎓 Pós graduando em Engenharia de Software.
+- 💻 Portfólio - https://portfolio-luscabap.vercel.app.
 - 🔭 Estou à procura de emprego como Desenvolvedor Front-End.
 - 🌌 Amo ver vídeos sobre Cosmologia e Sci-Fi.
+- 🤖 Live coding na roxinha - https://www.twitch.tv/fr3k1n.
+- 🎯 Principal objetivo é ajudar as pessoas e ser um EXCELENTE DEV.
 
 
 ##
