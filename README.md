@@ -10,11 +10,11 @@
   
 </div>
 
-- 🧑‍💻 Profissional tecnólogo em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor front-end apaixonado por criar interfaces impressionantes e funcionais. Com expertise em, Next.js, React.js, TypeScript, Node.js e Pipeline CI/CD ofereco arquiteturas robustas e escaláveis, com design intuitivo, responsivo e atraente.
+- 🧑‍💻 Desenvolvedor FullStack Júnior na OndePouso.
+- 🚀 Profissional tecnólogo em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor front-end apaixonado por criar interfaces impressionantes e funcionais. Com expertise em, Next.js, React.js, TypeScript, Node.js e Pipeline CI/CD ofereco arquiteturas robustas e escaláveis, com design intuitivo, responsivo e atraente.
 - 🧠 Aprimoro minhas habilidades com projetos freelances, projetos pessoais e projetos voluntários no Pipoca Ágil.
 - 🧑‍🎓 Pós graduando em Engenharia de Software.
 - 💻 Portfólio - https://portfolio-luscabap.vercel.app.
-- 🔭 Estou à procura de emprego como Desenvolvedor Front-End.
 - 🌌 Amo ver vídeos sobre Cosmologia e Sci-Fi.
 - 🤖 Live coding na roxinha - https://www.twitch.tv/fr3k1n.
 - 🎯 Principal objetivo é ajudar as pessoas e ser um EXCELENTE DEV.
