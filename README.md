@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f5fa1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f5fa1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Baptista.;Sou+Desenvolvedor+Front-End;Pós-graduando+em+Engenharia+de+Software;Sou+formado+no+curso+de+ADS.;Seja+muito+bem-vindo(a)+!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f5fa1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Baptista.;Sou+Desenvolvedor+FullStack;Pós-graduando+em+Engenharia+de+Software;Sou+formado+no+curso+de+ADS.;Seja+muito+bem-vindo(a)+!+:%29)](https://git.io/typing-svg)
 ##
 <div align="center">
 
@@ -10,14 +10,14 @@
   
 </div>
 
-- 🧑‍💻 Desenvolvedor FullStack Júnior na OndePouso.
-- 🚀 Profissional tecnólogo em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor front-end apaixonado por criar interfaces impressionantes e funcionais. Com expertise em, Next.js, React.js, TypeScript, Node.js e Pipeline CI/CD ofereco arquiteturas robustas e escaláveis, com design intuitivo, responsivo e atraente.
+- 🧑‍💻 Desenvolvedor FullStack Júnior.
+- 🚀 Com expertise em Next.js, React.js, TypeScript, Node.js, MongoDB, React Native e Pipeline CI/CD ofereco arquiteturas robustas e escaláveis, com design intuitivo, responsivo e atraente.
 - 🧠 Aprimoro minhas habilidades com projetos freelances, projetos pessoais e projetos voluntários no Pipoca Ágil.
-- 🧑‍🎓 Pós graduando em Engenharia de Software.
+- 🧑‍🎓 Profissional tecnólogo em Análise e Desenvolvimento de Sistemas e Pós Graduando em Engenharia de Software.
 - 💻 Portfólio - https://portfolio-luscabap.vercel.app.
-- 🌌 Amo ver vídeos sobre Cosmologia e Sci-Fi.
+- 🌌 Amo ler livros e ver filmes/vídeos sobre Cosmologia e Sci-Fi.
 - 🤖 Live coding na roxinha - https://www.twitch.tv/fr3k1n.
-- 🎯 Principal objetivo é ajudar as pessoas e ser um EXCELENTE DEV.
+- 🎯 Principal objetivo é ajudar as pessoas da comunidade e ser um excepcional DEV.
 
 
 ##
@@ -53,19 +53,18 @@
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
+
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
           
           
   ### Estudando nesse momento:
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-plain.svg"/>
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
+  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
   ### Próximos passos:
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 
   <h3 align="center">"O sucesso é 1% inspiração e 99% transpiração." – Thomas Edison</h3>
