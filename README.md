@@ -13,7 +13,7 @@
 - 🧑‍💻 Desenvolvedor FullStack Júnior.
 - 🚀 Com expertise em Next.js, React.js, TypeScript, Node.js, MongoDB, React Native e Pipeline CI/CD ofereco arquiteturas robustas e escaláveis, com design intuitivo, responsivo e atraente.
 - 🧠 Aprimoro minhas habilidades com projetos freelances, projetos pessoais e projetos voluntários no Pipoca Ágil.
-- 🧑‍🎓 Profissional tecnólogo em Análise e Desenvolvimento de Sistemas e Pós Graduando em Engenharia de Software.
+- 🧑‍🎓 Profissional Pós Graduando em Engenharia de Software e tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 💻 Portfólio - https://portfolio-luscabap.vercel.app.
 - 🌌 Amo ler livros e ver filmes/vídeos sobre Cosmologia e Sci-Fi.
 - 🤖 Live coding na roxinha - https://www.twitch.tv/fr3k1n.
